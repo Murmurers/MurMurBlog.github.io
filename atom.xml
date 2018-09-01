@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>一些不成熟的小想法</title>
   
-  
+  <subtitle>两岸猿声啼不住 ， 轻舟已过万重山</subtitle>
   <link href="/MurMurBlog.github.io/atom.xml" rel="self"/>
   
   <link href="https://murmurers.github.io/MurMurBlog.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://murmurers.github.io/MurMurBlog.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>MurMur</name>
     
   </author>
   
