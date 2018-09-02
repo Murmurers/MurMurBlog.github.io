@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://murmurers.github.io/MurMurBlog.github.io/about/index.html</loc>
+    
+    <lastmod>2018-09-02T03:15:14.836Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://murmurers.github.io/MurMurBlog.github.io/schedule/index.html</loc>
     
     <lastmod>2018-09-02T03:14:11.789Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://murmurers.github.io/MurMurBlog.github.io/tags/index.html</loc>
     
     <lastmod>2018-09-02T03:12:52.224Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://murmurers.github.io/MurMurBlog.github.io/about/index.html</loc>
-    
-    <lastmod>2018-09-02T03:11:08.283Z</lastmod>
     
   </url>
   
